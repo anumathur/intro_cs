@@ -1,0 +1,3 @@
+Drunkard.java - This program represents an infinite grid of sheets. The step() method in this program moves the user one step in any direction (north, south, east or west). The howFar() method represents the distance from the initial location in Manhattan distance. The getLocation() method returns the current location.
+
+CreditCard.java - This program checks to see if a credit card number is valid. The check() method checks 6 different criteria that a credit card number must fulfill in order to be valid. The isValid() method returns a boolean type to see if the number is valid or not. The getErrorCode() method returns a number 1-6 to see which criteria the number failed to fulfill. 
